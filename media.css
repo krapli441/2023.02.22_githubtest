@@ -1,3 +1,6 @@
-@media screen and {max-width: 480px} {
+@media screen and (max-width: 480px) {
+  body {
+    background-color: black;
+  }
   /* 뷰포트 최대값 480px 이하면 모바일로 판단하겠다 */
 }
